@@ -21,9 +21,11 @@ Configuração do IAM para gerenciar usuários e permissões
 
 Configuração do CloudTrail para auditoria de atividades
 
+configuracao do CloudWatch
+
 Instalação e configuração da AWS CLI
 
-Configuração de uma VPC e subnets
+Configuração de  VPCs e subnets
 
 Configuração de grupos de segurança para instâncias EC2
 
@@ -35,11 +37,15 @@ Configuração do Active Storage para usar o Amazon S3
 
 Configuração de volumes de armazenamento EBS para instâncias EC2
 
-Lançamento de uma instância EC2 e configuração de Auto Scaling
+Lançamento de  instâncias EC2 e configuração de Auto Scaling e Load Balancer
 
 Configuração do Amazon Route 53 para domínio principal e subdomínios
 
 Configuração de implantação de código (CI/CD) com AWS CodeDeploy e AWS CodePipeline
+
+Configuracao de Redis e Sideqik como Service
+
+AWS Rekognition e Ruby 
 
 
 Contribuições são bem-vindas! Se você encontrar qualquer problema ou tiver sugestões para melhorar este tutorial, sinta-se à vontade.
